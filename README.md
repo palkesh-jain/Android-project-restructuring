@@ -1,4 +1,5 @@
 # Android project restructuring
+[![HitCount](http://hits.dwyl.io/Palkesh43/Android-project-restructuring.svg)](http://hits.dwyl.io/Palkesh43/Android-project-restructuring)
 
 ### Aim
 
